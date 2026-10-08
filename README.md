@@ -50,4 +50,11 @@ OS: Windows
 ```bash
 nmap <target>
 ```
+### Example Lab Result
 
+```text
+Target: 192.168.43.106
+Port: 5357/tcp
+State: open
+Service: wsdapi
+```
