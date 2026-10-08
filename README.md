@@ -70,3 +70,9 @@ This exercise demonstrated how Nmap can be used to:
 - Identify exposed ports
 - Detect running services
 - Gather basic service and operating system information
+
+## Security Considerations
+
+Network enumeration is an important part of security assessment because it helps identify exposed services and potential attack surfaces.
+
+All scanning in this project was performed in a controlled and authorized lab environment.
