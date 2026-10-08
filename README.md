@@ -35,6 +35,15 @@ nmap -sn <target-network>/24
 ```bash
 nmap -sV <target>
 ```
+### Example Lab Result
+
+```text
+Target: 192.168.43.106
+Port: 5357/tcp
+State: open
+Service: HTTP
+Version: Microsoft HTTPAPI 2.0
+OS: Windows
 
 ### 3. Basic Port Scanning
 
