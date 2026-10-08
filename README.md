@@ -58,3 +58,15 @@ Port: 5357/tcp
 State: open
 Service: wsdapi
 ```
+
+## Findings & Interpretation
+
+The scan identified an active Windows host at `192.168.43.106`.
+
+Port `5357/tcp` was discovered as open. Service and version detection identified the service as Microsoft HTTPAPI 2.0, while the basic Nmap scan identified the service as `wsdapi`.
+
+This exercise demonstrated how Nmap can be used to:
+- Discover active hosts
+- Identify exposed ports
+- Detect running services
+- Gather basic service and operating system information
