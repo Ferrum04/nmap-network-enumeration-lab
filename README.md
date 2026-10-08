@@ -44,7 +44,7 @@ State: open
 Service: HTTP
 Version: Microsoft HTTPAPI 2.0
 OS: Windows
-
+```
 ### 3. Basic Port Scanning
 
 ```bash
